@@ -25,7 +25,7 @@ This analysis answers all of those questions using 54,626 lines of dialogue acro
 | **Michael's share** | 23 out of 34 (68%) |
 | **Season 1 & 8** | Zero instances — S1 predates the joke, S8 reflects Michael's absence |
 | **Longest gap** | 33 episodes before Creed's callback in S9E5 |
-| **Final line** | Michael's very last line in the series (S9E24) is a TWSS |
+| **Final line** | Michael's very last TWSS in the series is in Dwight and Angela's wedding episode (S9E24) |
 
 > The trajectory of "That's What She Said" is essentially a proxy for Michael Scott's presence in the show. It rises with his confidence, peaks at his most charismatic, fades as the show matures, and disappears entirely when he leaves — only returning as a fond callback in the finale.
 
